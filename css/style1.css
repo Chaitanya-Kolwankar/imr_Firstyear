@@ -1,0 +1,103 @@
+body{margin:0px; padding:0px; font-size:12px; font-family: Arial, Helvetica, sans-serif; color:#333333;}
+img{border:none;}
+/*td { vertical-align:top; }*/
+p{margin:0px; padding:0px;}
+a{color:#1b6ea5; text-decoration:none;}
+a:hover{color:#1b6ea5; text-decoration:none;}
+form{margin:0px; padding:0px;}
+h1,h2,h3,h4,h5,h6{margin:0px; padding:0px;}
+input, textarea, password, fieldset {font-family: Tahoma, Arial, Verdana, Geneva, sans-serif;	font-size:11px;	vertical-align:middle; font-weight:normal; margin:0px; padding-left:3px; border:1px solid #7f9db9; height:14px;}
+input[type="radio"] { border-style:none; } 
+input[type="checkbox"] { border-style:none; }
+select{font-size:11px;	vertical-align:middle; font-weight:normal; margin:0px; padding-left:0px; height:18px; border:1px #7f9db9 solid;}
+fieldset {border: 1px solid #bed2e8;}
+fieldset.choices {padding: 5px 5px 10px 10px;}
+fieldset.fieldset {padding: 5px 5px 10px 10px;}
+legend {margin:0px;	font-weight: bold;	color:#555555;	padding:0px;}
+
+form { 	margin:0px;}
+
+img { border:0;  vertical-align:top; text-align:left;}
+
+object {vertical-align:top; outline:none;}
+
+ul, ol, ul li {list-style:none; list-style-image:none; list-style-type:none; margin:0px; padding:0px;}
+
+#wrap{width:884px; height:auto; margin:0 auto; margin:auto;}
+.alignleft {text-align:left;}
+.alignright {text-align:right;}
+.aligncenter {text-align:center;}
+
+.fleft {float:left;}
+.fright {float:right;}
+
+.clear{clear:both;}
+
+.hand_cursor{cursor:pointer;}
+#footer{ color:#000; height:30px; padding-left:20px; margin-top:20px;}
+.h_1_blue{	font-size:12px;	color:#2a3e63; padding-left:20px; font-weight:bold; text-transform: uppercase;}
+.gry_text{ font-size:10px; color:#606060;}
+.gry_text_2{ color:#000;}
+.top_error{ color:red; padding-top:10px; padding-left:20px; padding-bottom:10px; font-size:10px;}
+.red{ color:red;}
+/*.content{width:100%px; height:auto;}
+.content form input {border:1px #7f9db9 solid; height:16px; font-size:11px; }
+.content form select {border:1px #7f9db9 solid; height:16px; font-size:11px; }*/
+
+
+/*========================================Buttons For All Pages=====================================================*/
+.save_as_draft_exit_btn{background:url(../../images/save_as_draft_exit.gif) no-repeat; width:117px; height:27px; cursor:pointer; border:0px;}
+.next_btn{background:url(../../images/next.gif) no-repeat; width:77px; height:27px; cursor:pointer; border:0px;}
+.submit_btn{background:url(../../images/submit_btn.gif) no-repeat; width:92px; height:27px; cursor:pointer; border:0px;}
+.exit_btn{background:url(../../images/exit_btn.gif) no-repeat; width:67px; height:27px; cursor:pointer; border:0px;}
+.pay_now_red_btn{background:url(../../images/pay_now_red_btn.gif) no-repeat; width:102px; height:27px; cursor:pointer; border:0px;}
+.pay_now{background:url(../../images/pay_now.jpg) no-repeat; width:117px; height:37px; cursor:pointer; border:0px;}
+.cancel_btn{background:url(../../images/cancel_btn.gif) no-repeat; width:88px; height:38px; cursor:pointer; border:0px;}
+.login_btn{background:url(../../images/login_btn.gif) no-repeat; width:82px; height:27px; cursor:pointer; border:0px;}
+.home_btn{background:url(../../images/home_btn.gif) no-repeat; width:76px; height:38px; cursor:pointer; border:0px;}
+.print_btn{background:url(../../images/print_btn.gif) no-repeat; width:82px; height:27px; cursor:pointer; border:0px;}
+.print_btn_admin{background:url(../../images/print_btn.gif) no-repeat; width:82px; height:36px; cursor:pointer; border:0px;}
+.print_btn_none{background:url(../../images/print_btn.gif) no-repeat; width:82px; height:27px; cursor:pointer; border:0px; display:none;}
+
+
+
+/*========================================Common Form Field For All Pages=====================================================*/
+.require_red{ color:#FF0000;}
+.cm_textfield{ background:#FFFFFF; border:solid 1px #7e9dba; padding-left:5px;}
+.cm_textarea{ background:#FFFFFF; border:solid 1px #7e9dba; padding-left:5px; }
+.cm_textfield_white{ background:#FFFFFF; border:solid 1px #7e9dba; width:200px; padding-left:5px; }
+.cm_textfield_white_rejected{ background:#ffdfdf; border:solid 1px #e5afaf; padding-left:5px;}
+.cm_textfield_white_accepted{ background:#ceda96; border:solid 1px #a7b46d; padding-left:5px; }
+.requiredfield{ font-size:10px; color:#606060;}
+
+/*....................................... form-required ...................................*/
+
+.form-required{ color:#F00000;}
+.form_item_normal{ background:#ffffff; border: 1px solid #7e9dba; padding-left:3px;}
+.form_item_rejected{ background:#ffdfdf; border: 1px solid #e5afaf; }
+.form_item_rejected_text{ background:#ffdfdf; border: 1px solid #e5afaf; }
+.form_item_accepted{ background:#ceda96; border: 1px solid #a7b46d; }
+.form-item input.error, .form-item textarea.error, .form-item select.error { border: 2px solid red;}
+/*..................................*/
+
+
+/*swati-----------------------------------------------------------------*/
+.instruction{ font-size:13px;}
+.instruction ul{ list-style-type:disc; margin-top:0px; }
+.instruction li{ margin-bottom:14px; }
+.red{ color:#FF0000; font-weight:bold;}	
+.arial11bold{ font-size:11px; padding-left:7px;	font-weight:bold; background-color:#edf3fe;	}
+
+/*--------------------------------------swati----------------------------*/
+
+
+/* ------------------Shailesh---------------- */
+.ver_middle{vertical-align:middle;}
+.ver_bottom{vertical-align:bottom;}
+.blue_bg_left{font-size:12px; height:30px; border-bottom:solid 1px #c9d1de; background:#edf3fe; color:#2a3e63; padding-left:20px; font-weight:bold; text-transform: uppercase; vertical-align:middle;}
+.blue_bg_right{font-size:12px; height:30px; border-bottom:solid 1px #c9d1de; background:#edf3fe; color:#2a3e63; padding-right:20px; font-weight:bold; text-transform: uppercase; vertical-align:middle;}
+.font20_black{font-size:20px; color:#000;}
+.font16_blue{font-size:16px; color:#1b6ea5;}
+.require_red_10{color:#FF0000; font-size:10px;}
+
+/* ------------------Shailesh----------------*/

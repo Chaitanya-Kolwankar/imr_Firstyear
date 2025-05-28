@@ -1,0 +1,62 @@
+﻿
+
+.check {
+border: 5px solid #FFFFFF;
+    border-radius: 9px;
+    height: 200px;
+    margin-left: 28%;
+    margin-top: 5%;
+    width: 500px;
+}
+.label {
+color: #FFFFFF;
+    font-family: 'MS Gothic';
+    font-size: 22px;
+    font-weight: bold;
+}.label_black {
+color: #000;
+    font-family: 'MS Gothic';
+    font-size: 16px;
+    font-weight: bold;
+    margin-left:10px;
+    margin-top:10px;
+}
+.table_d {
+    margin-top:20px;
+    margin-left:10px;
+}
+.textbox {
+ border: 5px solid #FFFFFF;
+    border-radius: 8px;
+    font-family: ms gothic;
+    font-size: 20px;
+    font-weight: bold;
+    height: 25px;
+    margin-left: 25px;
+    width: 200px;
+
+}
+.button {
+  background-color: #FFFFFF;
+    border-radius: 8px;
+    color: #000000;
+    font-family: ms gothic;
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 30px;
+    width: 200px;
+}
+.div_image {
+ border: 5px solid #000000;
+    border-radius: 8px;
+    height: 300px;
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 340px;
+}
+.image {
+margin-left: 50px;
+    margin-top: 30px;
+}

@@ -1,0 +1,29 @@
+﻿body 
+{
+	padding:25px 10% 0px 10%;
+	
+	font-family:Verdana;
+	color:Green;
+	font-size:12px;
+	width:75%;
+	background-color:#EEEEEE;
+
+}
+
+h1
+{
+	font-size:18px;
+	text-decoration:underline;
+}
+
+img
+{
+	padding:5px;
+}
+
+div
+{
+	background-color:WhiteSmoke;
+	
+	margin:5px;
+}
