@@ -132,7 +132,7 @@
         <div class="panel-footer">
             <center>
                 <div class="well">
-                    Design and Maintained by <a href="http://www.vssdevelopers.com" style="text-decoration: none">Viva Software Solutions.</a>
+                    
                 </div>
             </center>
         </div>
